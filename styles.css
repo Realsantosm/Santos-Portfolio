@@ -196,7 +196,8 @@ hr {
     background-color: lightgray;
     box-sizing: border-box;
     border: 0.3px solid red;
-    border-radius: 0.5rem;
+    border-radius: 1.8rem;
     font-size: smaller;
     font-weight: 200;
+    padding: 0.3rem;
 }
