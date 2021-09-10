@@ -201,3 +201,14 @@ hr {
     font-weight: 200;
     padding: 0.3rem;
 }
+
+.bgColor {
+    display: flexbox;
+    background-color: lightgray;
+    border-radius: 1.5rem;
+    max-width: 60%;
+    margin: auto;
+    /* padding-top:0.7rem ; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
