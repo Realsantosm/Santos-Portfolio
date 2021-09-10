@@ -143,6 +143,11 @@ hr {
 
 .ow {
     background-color: var(--off-white);
+    max-width: 60%;
+    margin: auto;
+    margin-bottom: 1rem;
+    border-radius: 0.8rem;
+    display: flexbox;
 }
 
 /** footers **/
